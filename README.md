@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate student hailing from New Zealand with ambitions to excel as a backend developer.</h3>
+<h3 align="center">A passionate student currently pursuing a Bachelor of ICT in Software Development at Ara Institute of Canterbury in New Zealand, with ambitions to excel as a backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretarykevin&label=Profile%20views&color=0e75b6&style=flat" alt="secretarykevin" /> </p>
 
