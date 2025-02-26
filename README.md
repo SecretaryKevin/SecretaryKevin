@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate student currently pursuing a Bachelor of ICT in Software Development at Ara Institute of Canterbury in New Zealand, with ambitions to excel as a backend developer.</h3>
+<h3 align="center">A passionate student currently pursuing a Bachelor of ICT in Software Development at Ara Institute of Canterbury in New Zealand.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Wiz Biz Inventory<br>📫 How to reach me dtempler@outlook.co.nz
